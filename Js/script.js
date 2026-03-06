@@ -125,7 +125,7 @@ Ojalá esto sí se dé.
 
 Porque la verdad,
 me encanta estar contigo.
-todo de ti me enanta.
+todo de ti me encanta.
 te extraño, lo bueno que ya te voy a ver hoy 6 de marzo <3.
 espero te guste este detallito, lo hice con mucho amor <3.
 espero te sientas mejor con esto, ya que ayer estabas algo triste:(  ,

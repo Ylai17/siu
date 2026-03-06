@@ -390,10 +390,10 @@ function showFinalPhotos(){
   photos.id="photo-container"
 
   const images=[
-    "img/foto1.jpg",
-    "img/foto2.jpg",
-    "img/foto3.JPG",
-    "img/foto4.jpg"
+    "Img/foto1.JPG",
+    "Img/foto2.JPG",
+    "Img/foto3.JPG",
+    "Img/foto4.jpg"
   ]
 
   images.forEach((src,i)=>{

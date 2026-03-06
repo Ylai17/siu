@@ -128,7 +128,7 @@ me encanta estar contigo.
 todo de ti me enanta.
 te extraño, lo bueno que ya te voy a ver hoy 6 de marzo <3.
 espero te guste este detallito, lo hice con mucho amor <3.
-espero te sientas mejor con esto, ya que ayer estabas un algo triste:(  ,
+espero te sientas mejor con esto, ya que ayer estabas algo triste:(  ,
 te amo tanto, y quiero que sepas que siempre voy a estar aquí para ti, para lo que necesites, para lo que quieras, para lo que sea <3.
 y gracias por ser tú, gracias por ser tan increíble, gracias por ser tan hermosa, gracias por ser tan dulce, gracias por ser tan linda, 
 gracias por ser tan maravillosa, gracias por ser tan especial, gracias por ser tan única, gracias por ser tan tú <3.

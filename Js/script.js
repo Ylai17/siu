@@ -155,7 +155,7 @@ Eli 💚`
 
       i++
 
-      setTimeout(type,0,01)
+      setTimeout(type,100)
 
     } else {
 

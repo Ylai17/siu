@@ -435,3 +435,12 @@ function showFinalPhotos(){
   },3000)
 
 }
+document.addEventListener("click", function(){
+
+  const audio=document.getElementById("bg-music")
+
+  if(audio && audio.paused){
+    audio.play().catch(()=>{})
+  }
+
+}, { once:true })
